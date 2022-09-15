@@ -4,3 +4,5 @@ import UIKit
 
 let filename = "paris.jpg"
 print(filename.hasSuffix(".jpg"))
+
+// more day 2 stuff
